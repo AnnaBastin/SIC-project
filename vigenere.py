@@ -31,6 +31,11 @@ def vigenere_encrypt(plaintext, key):
     return encrypted
 
 
+
+
+
+
+
 # Vigenere Decryption
 def vigenere_decrypt(ciphertext, key):
 
