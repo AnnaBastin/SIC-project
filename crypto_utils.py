@@ -32,3 +32,6 @@ if __name__ == "__main__":
     print("SHA256 Hash:", hash_result)
 
 
+
+
+
