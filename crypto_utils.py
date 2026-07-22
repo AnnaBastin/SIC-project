@@ -30,3 +30,5 @@ if __name__ == "__main__":
 
     print("AES Encrypted:", aes_result)
     print("SHA256 Hash:", hash_result)
+
+
