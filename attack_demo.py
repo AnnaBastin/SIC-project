@@ -55,3 +55,5 @@ if __name__ == "__main__":
     ciphertext = "KHOOR ZRUOG"
 
     attack_demo(ciphertext)
+
+
